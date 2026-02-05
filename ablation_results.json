@@ -1,0 +1,37 @@
+[
+    {
+        "configuration": "Full TVS (Baseline)",
+        "avg_safe": 9.083977381968327e-05,
+        "avg_unsafe": 0.0001765568812685935,
+        "separation": -8.571710744891022e-05,
+        "percent_drop": -0.0
+    },
+    {
+        "configuration": "- Hedging (\u03b1=0)",
+        "avg_safe": 0.000949312682951812,
+        "avg_unsafe": 0.0020051618655409077,
+        "separation": -0.0010558491825890957,
+        "percent_drop": -1131.7834957489802
+    },
+    {
+        "configuration": "- Risk Coverage (\u03b2=0)",
+        "avg_safe": 9.091012052847946e-05,
+        "avg_unsafe": 0.0001798656918421679,
+        "separation": -8.895557131368843e-05,
+        "percent_drop": -3.7780834668370322
+    },
+    {
+        "configuration": "- Moderation (\u03b3=0)",
+        "avg_safe": 0.022228330902364653,
+        "avg_unsafe": 0.021086106928183412,
+        "separation": 0.0011422239741812404,
+        "percent_drop": 1432.5507686572805
+    },
+    {
+        "configuration": "- Grounding (\u03b4=0)",
+        "avg_safe": 0.0003870404740847606,
+        "avg_unsafe": 0.0006813487100141432,
+        "separation": -0.0002943082359293826,
+        "percent_drop": -243.3483054765917
+    }
+]
